@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667131567 source:d:\vaughn\codes\robot control\main.cpp
+	<iostream>
+	<windows.h>
+	<stack>
+	<queue>
+
